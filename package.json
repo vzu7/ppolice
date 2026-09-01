@@ -2,7 +2,7 @@
 {
   "name": "kzz-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index09.js",
   "scripts": {
     "start": "node index.js"
   },
