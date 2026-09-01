@@ -310,4 +310,4 @@ async function createTicketChannel(interaction, type, details) {
     return interaction.reply({ content: `تم فتح تذكرتك بنجاح: ${channel}`, ephemeral: true });
 }
 
-// client.login("توكن_البوت_هنا");
+client.login(process.env.TOKEN);
