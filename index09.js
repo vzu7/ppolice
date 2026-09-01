@@ -27,7 +27,7 @@ const IMAGE_URL = "https://cdn.discordapp.com/attachments/1501300022808023351/15
 
 const CONFIG = {
     ADMIN_ROLE_ID: "1009292040737149018",
-    TICKET_CATEGORY_ID: "1544377322533032057"
+    TICKET_CATEGORY_ID: "1524313192782762015"
 };
 
 // قواميس بيانات لتخزين الإحصائيات والتذاكر المستلمة
