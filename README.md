@@ -1,0 +1,5 @@
+{
+  "adminRoleId": "<@&1009292040737149018>",
+  "ticketCategoryId": "1544377322533032057",
+  "imageUrl": "https://cdn.discordapp.com/attachments/1501300022808023351/1544373963856281733/A9197E36-7273-4E51-8E9E-DE317E9A0E48.jpg?ex=6a9845d6&is=6a96f456&hm=bede527aef0a9a59ac7b65087c70138b5dce0d8cee0ebff05aa07ae13771a002&"
+}
