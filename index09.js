@@ -88,7 +88,7 @@ client.on('interactionCreate', async interaction => {
             const embed = new EmbedBuilder()
                 .setTitle("نظام التذاكر")
                 .setDescription("اهلا بكً في كي دي دي، لطلب المساعده، الشكوى سواء على \"عضو\" او \"اداري\" الضغط على الزر ادناه\n\nملاحظه: \"فتح التكت لطقطقه قد يودي الى تحذيرك\"")
-                .setColor("Blue")
+                .setColor("Gold")
                 .setImage(IMAGE_URL);
 
             const row = new ActionRowBuilder().addComponents(
